@@ -1,102 +1,80 @@
 <div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=100&lines=ZaherCyber+%7C+F6-OS;%3E+Privacy+First;%3E+Cyber+Arsenal;%3E+All+in+One" alt="Typing SVG" />
 
-# 🌐 ZaherCyber | F6-OS
-### 🛡️ المعرفة، الحماية، والأدوات... في بيئة سيبرانية واحدة
-
-[![Version](https://img.shields.io/badge/Version-2.23.0%2B42-blueviolet?style=for-the-badge&logo=android)](https://github.com/AcademyF6Team/ZaherCyber/releases)
-[![Platform](https://img.shields.io/badge/Platform-Android%207.0%2B-green?style=for-the-badge&logo=android)](https://github.com/AcademyF6Team/ZaherCyber/releases)
-[![Privacy](https://img.shields.io/badge/Privacy-Local%20First-success?style=for-the-badge&logo=shield)](SECURITY.md)
-[![License](https://img.shields.io/badge/License-Open%20Source-orange?style=for-the-badge&logo=github)](LICENSE)
-
-**البرمجة والتطوير:** زاهر عباس آل عاشور (Zaher Abbas Al-Ashour)  
-**الأكاديمية:** [F6-Team Academy](https://t.me/c/4397054621/17)
+# 🛡️ ZaherCyber 
+### المنصة السيبرانية المتكاملة | The Ultimate Cyber Environment
 
 </div>
+[![Version](https://img.shields.io/badge/Version-2.23.0%2B42-00FFCC?style=for-the-badge&logo=android&logoColor=black)](https://github.com/AcademyF6Team/ZaherCyber/releases)
+[![Platform](https://img.shields.io/badge/Target-Android_7.0+-purple?style=for-the-badge&logo=android)](https://github.com/AcademyF6Team/ZaherCyber/releases)
+[![Status](https://img.shields.io/badge/Status-Active_Secure-success?style=for-the-badge&logo=shield)](SECURITY.md)
+[![License](https://img.shields.io/badge/License-Open_Source-orange?style=for-the-badge&logo=github)](LICENSE)
+
+**تطوير:** زاهر عباس آل عاشور (Zaher Abbas Al-Ashour) | **الأكاديمية:** F6-Team
+
+> [!WARNING]  
+> **🚨 تنبيه أمني هام:** القناة الرسمية الوحيدة لتطبيق ZaherCyber هي [قناة تيليجرام الرسمية](https://t.me/+nRjn9nPpbzliMTIy). أي قناة أخرى تدعي ذلك هي قناة مزيفة. احذر من تحميل التطبيق من مصادر غير موثوقة.
 
 ---
+## ⚡ | الترسانة السيبرانية (Cyber Arsenal)
+<details>
+<summary><b>اضغط لاستكشاف الأدوات والاستخبارات (OSINT & Threat Intel)</b></summary>
+<br>
 
-## 📑 المحتويات
-- [نظرة عامة](#-نظرة-عامة)
-- [أبرز التطورات في الإصدار 2.23.0](#-أبرز-التطورات-في-الإصدار-2230)
-- [الترسانة السيبرانية](#-الترسانة-السيبرانية-security-arsenal)
-- [مركز الحماية والخصوصية](#-مركز-الحماية-والخصوصية-protection-center)
-- [المساعد المحلي Zaher Assistant](#-المساعد-المحلي-zaher-assistant)
-- [متطلبات التشغيل والتحميل](#-متطلبات-التشغيل-والتحميل)
-
----
-
-## 🔭 نظرة عامة
-لم يعد **ZaherCyber** مجرد واجهة لأدوات الأمن السيبراني، بل أصبح **منصة متكاملة (F6-OS)** تجمع بين الحماية، المعرفة، الأدوات، المصادر، والخصوصية داخل بيئة واحدة. تم تصميم التطبيق ليكون رفيقك في العمليات السيبرانية، تحليل المصادر المفتوحة (OSINT)، وإدارة الخصوصية الرقمية، مع التركيز الكامل على **الخصوصية أولاً (Privacy-First)** وعدم إرسال بياناتك الحساسة إلى أي خادم خارجي دون موافقتك الصريحة.
+*   **📡 استخبارات التهديدات:** MITRE ATT&CK, CISA KEV, Have I Been Pwned.
+*   **🔍 تحليل الشبكات والروابط:** Shodan, Censys, VirusTotal, AbuseIPDB.
+*   **📦 متاجر Android الآمنة:** F-Droid, GrapheneOS Store, Aurora, APKMirror (مع تحذيرات أمنية مدمجة).
+*   **⚙️ أدوات محلية:** تحليل JSON، فحص JWT، تحليل الروابط والبصمات محلياً دون إنترنت.
+</details>
 
 ---
+## 🛡️ | مركز الحماية (Protection Center)
+<details>
+<summary><b>إدارة أمنك الرقمي (Offline & Secure)</b></summary>
+<br>
 
-## 🚀 أبرز التطورات في الإصدار 2.23.0
-تم تطوير التطبيق بشكل شامل منذ النسخة الأولى (2.15.0+31) ليصل إلى النسخة الحالية **2.23.0+42**:
+*   👤 **إدارة الحسابات:** تقييم جاهزية الحسابات (MFA, الجلسات) دون تخزين أي كلمات مرور.
+*   📝 **سجل الحوادث:** توثيق الحوادث الأمنية محلياً وتصديرها (JSON).
+*   🗑️ **السيطرة على البيانات:** حذف كامل للبيانات المحلية وتعطيل النسخ الاحتياطي التلقائي.
+</details>
 
-| الميزة | الوصف |
-| :--- | :--- |
-| 🛡️ **مركز العمل الأمني** | كتالوج واسع، أدوات محلية لتحليل JSON وJWT والروابط، وبحث سريع مع تنبيهات للبيانات الحساسة. |
-| 🧰 **تطوير الترسانة** | إضافة ملخص شامل، وصفات وصول سريعة، تصنيفات، وأدوات OSINT ومصادر استخبارات التعرض (Shodan, Censys, VirusTotal, etc). |
-| 📱 **متاجر ومصادر Android** | الوصول إلى Orion, Aurora, F-Droid, IzzyOnDroid, Obtainium, GrapheneOS, Accrescent, APKMirror مع عرض مستوى الثقة. |
-| 🔐 **تنزيل آمن** | لا يوجد تثبيت صامت أو تلقائي. نافذة تأكيد قبل فتح الرابط، مع تنبيه لمراجعة التوقيع والصلاحيات. |
-| 🤖 **Zaher Assistant** | مساعد محلي (Offline) لفهم أقسام التطبيق، الوصول السريع للترسانة، وفتح الأدوات دون إرسال أسئلتك للخارج. |
-| 🔗 **فاحص FAHES** | تحليل الروابط محلياً ومراجعة المؤشرات مع إمكانية استخدام خدمات فحص خارجية اختيارية (PhishTank, URLhaus). |
-
----
-
-## 🧰 الترسانة السيبرانية (Security Arsenal)
-صُممت الترسانة لتكون مركز انطلاقك في عالم الأمن السيبراني، وتشمل:
-- **📡 استخبارات التهديدات (Threat Intel):** MITRE ATT&CK, CISA KEV Catalog, Have I Been Pwned.
-- **🔍 تحليل الشبكات والروابط:** Shodan, Censys, VirusTotal, AbuseIPDB, crt.sh.
-- **📚 المصادر التعليمية:** دورات، مختبرات، ومصادر تعليمية مجانية مع تصنيف العناصر الحساسة.
-- **📦 متاجر التطبيقات الآمنة:** F-Droid, Aurora Store, GrapheneOS Store، مع تحذيرات أمنية مدمجة لكل متجر.
-
-> 🛡️ **سياسة الأمان:** التطبيق لا يقوم بتثبيت أي تطبيق آخر بشكل صامت. يتم توجيهك دائماً إلى المصدر الرسمي لمراجعة التوقيع الرقمي قبل التثبيت.
+<details>
+<summary><b>المساعد المحلي (Zaher Assistant)</b></summary>
+<br>
+مساعد ذكي يعمل داخل جهازك بدون إنترنت، يشرح لك أقسام التطبيق ويفتح الأدوات بضغطة زر. <strong>لا يرسل بياناتك لأي خادم خارجي.</strong>
+</details>
 
 ---
-
-## 🛡️ مركز الحماية والخصوصية (Protection Center)
-بيئة محلية بالكامل لإدارة أمنك الرقمي:
-- **👤 إدارة الحسابات:** تقييم جاهزية الحسابات (MFA, جلسات، تنبيهات) دون تخزين أي أسرار.
-- **📝 سجل الحوادث:** توثيق الحوادث الأمنية محلياً مع إمكانية التصدير بصيغة JSON.
-- **⏰ التذكيرات الأمنية:** تذكيرات محلية لا تنشئ إشعارات دون موافقتك المنفصلة.
-- **🗑️ السيطرة على البيانات:** حذف البيانات المحلية، وتعطيل النسخ الاحتياطي التلقائي لبيانات التطبيق.
-- **📉 تقليل السجلات:** تقليل السجلات غير الضرورية وعدم إرسال بيانات الأدوات المحلية للخارج.
-
----
-
-## 🤖 المساعد المحلي (Zaher Assistant)
-مساعد ذكي يعمل **بدون إنترنت** وبدون إرسال أي بيانات:
-- 🧭 يشرح لك أقسام التطبيق ووظيفة كل تبويب.
-- ⚡ يفتح لك الترسانة أو مركز الحماية أو FAHES بضغطة زر.
-- 💬 يقدم شروحات محلية دقيقة دون الحاجة لخدمات خارجية.
-
----
-
-## 📥 متطلبات التشغيل والتحميل
-
-### 📱 متطلبات النظام:
-- **نظام التشغيل:** Android 7.0 (API 24) أو أحدث.
-- **المساحة المطلوبة:** صغيرة جداً (التطبيق خفيف وموفر للموارد).
-- **الاتصال بالإنترنت:** غير مطلوب للأدوات المحلية والمساعد، ومطلوب فقط لجلب الأخبار واستخدام الخدمات الخارجية الاختيارية.
-
-### 🚀 كيفية التحميل والتثبيت:
-1. توجه إلى قسم **[Releases](https://github.com/AcademyF6Team/ZaherCyber/releases)** في أعلى/جانب هذه الصفحة.
-2. قم بتحميل أحدث ملف **APK** (مثال: `ZaherCyber-2.23.0.apk`).
-3. افتح الملف على هاتفك واتبع خطوات التثبيت العادية (قد تحتاج للسماح بتثبيت التطبيقات من مصادر غير معروفة).
-4. (اختياري) يمكنك تحميل ملف `Source-Code.zip` من نفس القسم إذا كنت مطوراً وترغب في مراجعة الكود.
-
----
+## ⬇️ | التحميل والتثبيت
 
 <div align="center">
 
-### 🔒 بيان الخصوصية
-**ZaherCyber** لا يجمع بياناتك، ولا يتتبعك، ولا يرسل بياناتك إلى خوادمنا. كل شيء يعمل على جهازك.
+**[🔗 اضغط هنا لتحميل التطبيق (APK) من قسم الإصدارات](https://github.com/AcademyF6Team/ZaherCyber/releases)**
 
-**ZaherCyber — المعرفة والحماية والأدوات، في مكان واحد.**
+</div>
 
-🏛️ **Academy F6-Team** | 👤 **Zaher Abbas Muhammad**
+- **نظام التشغيل المطلوب:** Android 7.0 (API 24) أو أحدث.
 
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat-square&logo=telegram)](https://t.me/c/4397054621/17)
+## 🔐 | التحقق من السلامة (SHA-256)
+```bash
+sha256sum ZaherCyber-2.23.0.apk
+# البصمة الرسمية:
+8ce281d744e94678dbf495a8d2eff505dc20634303f0f549f49279b6ed7421ed
+
+---
+<div align="center">
+
+🌐 انضم إلى المجتمع
+
+للمتابعة، التحديثات، والإبلاغ عن الثغرات:
+
+[![Telegram](https://img.shields.io/badge/Telegram-القناة_الرسمية-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+nRjn9nPpbzliMTIy)
+
+<br>
+
+"ZaherCyber — المعرفة والحماية والأدوات، في مكان واحد."
+
+© 2024 Academy F6-Team | Zaher Abbas Muhammad
 
 </div>
